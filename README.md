@@ -14,8 +14,6 @@ This pipeline is built with **Feynman Shields**—mathematical guards that allow
 
 ##  How the Machinery Works
 
-We broke the problem into specialized modules that each do one thing with absolute rigor:
-
 * **The Bouncer (Validator):** We check the physical laws first. If the "High" is lower than the "Low," that’s not a market; that’s a glitch. We flag it and move on.
 * **The Timekeeper (Gaps & Calendars):** Markets don't follow a simple Monday-Friday clock; they follow exchange calendars (NYSE, NSE). We align the data to the heartbeat of the actual exchange, filling the silences logically so your timeline never skips a beat.
 * **The Auditor (Adjustments):** Corporate actions like splits and dividends are never "automatic" here. They are explicit, typed inputs. We backward-adjust prices and volumes, leaving a clear audit trail of every cent accounted for.
