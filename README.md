@@ -31,3 +31,5 @@ There are **148 automated tests** in this repo. They act like a stress-test labo
 git clone [https://github.com/sumitmasirkar01/Financial-data-pipeline.git](https://github.com/sumitmasirkar01/Financial-data-pipeline.git)
 cd Financial-data-pipeline
 pip install -r requirements.txt
+
+
