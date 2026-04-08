@@ -26,7 +26,7 @@ There are **148 automated tests** in this repo. They act like a stress-test labo
 
 ##  Getting Started
 
-### 1. Assemble the Parts
+### 1. Assemble the Parts.
 ```bash
 git clone [https://github.com/sumitmasirkar01/Financial-data-pipeline.git](https://github.com/sumitmasirkar01/Financial-data-pipeline.git)
 cd Financial-data-pipeline
